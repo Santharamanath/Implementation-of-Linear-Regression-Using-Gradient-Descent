@@ -57,12 +57,22 @@ print(f"Predicted value: {pre}")
 
 ## Output:
 Data Information
+
+
 ![311409229-e9b1fc7d-16f9-49f4-a3a6-1501751fc2a9](https://github.com/Santharamanath/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149035289/986b932e-cd55-42eb-9b0d-aa97a2142a42)
 
+
+
 Value of X
+
+
 ![311409217-8fe400bf-ef4d-4a65-bbf8-c4c193902a6c](https://github.com/Santharamanath/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149035289/39df1666-313e-4f6b-b41b-eec83bb26546)
 
+
+
 Predicted Value
+
+
 ![311409197-7f5cba3d-289a-4fc6-9779-df0040429087](https://github.com/Santharamanath/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/149035289/b422a607-5211-40f9-a48b-e999c20acaa4)
 
 ## Result:
